@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dionisius Lucky 👋</h1>
 
 <p align="center">
-  A passionate student diving deep into the world of **Cyber Security**, **Networking**, and **Python Development**. <br/> 
+  A passionate student diving deep into the world of Cyber Security, Networking, and Python Development. <br/> 
   Currently based in Salatiga, Indonesia 🇮🇩 and always excited to learn and build new things.
 </p>
 
