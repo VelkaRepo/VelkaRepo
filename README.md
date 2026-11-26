@@ -1,64 +1,50 @@
 <div align="center">
 
-# `VELKAREPO.exe`
+# Dionisius Lucky
 
-### SOC Analyst by day · command-line glitch hunter by night
+**SOC Analyst** · Jakarta, Indonesia
 
-**Jakarta, Indonesia** · `Python` · `Linux` · `Security tooling`
-
-> Reality has bugs. I spray bugs with bygone.
+Security operations, Python tooling, and the occasional deep dive into a suspicious command line.
 
 [![GitHub](https://img.shields.io/badge/GitHub-VelkaRepo-181717?style=flat&logo=github)](https://github.com/VelkaRepo)
-[![Discord](https://img.shields.io/badge/Discord-join_the_lobby-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/697657956216471587)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username-here)
+[![Discord](https://img.shields.io/badge/Discord-697657956216471587-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/697657956216471587)
 
 </div>
 
 ---
 
-## PLAYER PROFILE
+### About
 
-```text
-CLASS      SOC Analyst
-SPAWN      Jakarta, Indonesia
-LOADOUT    Python · Go · Linux · YARA · Sigma
-PASSIVE    Breathing
-CURRENT    Building tools for the side quests nobody asked for
-```
+I work as a **SOC Analyst** on a rotating shift schedule and build security tools in the spaces between alerts. My current focus is command-line analysis, de-obfuscation, and making useful workflows for triage.
 
-I work in security operations and like making the weird, messy parts of triage a little easier to inspect. Think less *“chosen one saves the galaxy”*, more *“someone please explain why this PowerShell is wearing three layers of disguise.”*
+When I'm not looking at logs, I'm probably playing something, watching anime, or getting back to a Soulsborne game. **Silver Wolf** is an easy favorite.
 
-## ACTIVE QUEST: [cmd-unmask](https://github.com/VelkaRepo/cmd-unmask)
+### What I'm working on
 
-Static command-line de-obfuscation and behavioral triage for SOC analysts and detection engineers. It peels back common obfuscation, extracts behaviors and IOCs, and can generate analyst notes and Sigma rules—all without executing the input.
+#### [cmd-unmask](https://github.com/VelkaRepo/cmd-unmask)
 
-```bash
-git clone https://github.com/VelkaRepo/cmd-unmask.git
-cd cmd-unmask
-pip install -e .
-cmd-unmask "suspicious_command_line_goes_here"
-```
+A static command-line de-obfuscation and behavioral triage tool for SOC analysts and detection engineers. It unpacks common obfuscation, extracts behaviors and IOCs, and can generate analyst notes and Sigma rules—without executing the input.
 
-[![Python](https://img.shields.io/badge/Python-stdlib_only-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/VelkaRepo/cmd-unmask)
-[![Dependencies](https://img.shields.io/badge/dependencies-zero-00bfa5?style=flat)](https://github.com/VelkaRepo/cmd-unmask)
-[![Tests](https://img.shields.io/badge/tests-169_passed-8a63d2?style=flat)](https://github.com/VelkaRepo/cmd-unmask)
+[![Python](https://img.shields.io/badge/Python-stdlib--only-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/VelkaRepo/cmd-unmask)
+[![Dependencies](https://img.shields.io/badge/dependencies-zero-009688?style=flat)](https://github.com/VelkaRepo/cmd-unmask)
+[![Tests](https://img.shields.io/badge/tests-169%20passed-success?style=flat)](https://github.com/VelkaRepo/cmd-unmask)
 
-## OTHER SAVE FILES
+### Other projects
 
-- **[HashShield](https://github.com/VelkaRepo/HashShield)** — Hybrid EDR project with ClamAV, YARA, VirusTotal intelligence, multi-agent support, and a web dashboard. The security-tooling equivalent of adding another screen to the command center.
-- **[knock](https://github.com/VelkaRepo/knock)** — A smart directory scanner in Go. Fast little side quest.
-- **[cannary](https://github.com/VelkaRepo/cannary)** — Python project with a web interface. Still not a bird.
+- **[HashShield](https://github.com/VelkaRepo/HashShield)** — Hybrid EDR project with ClamAV, YARA, VirusTotal intelligence, multi-agent support, and a web dashboard.
+- **[knock](https://github.com/VelkaRepo/knock)** — A smart directory scanner in Go.
+- **[cannary](https://github.com/VelkaRepo/cannary)** — A Python project with a web interface.
 
-## EQUIPPED
+### Stack & interests
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,go,linux,bash,html,git&theme=dark" alt="Python, Go, Linux, Bash, HTML, and Git" />
 </p>
 
-`SOC triage` · `Static analysis` · `YARA` · `MITRE ATT&CK` · `Sigma`
+`SOC operations` · `Static analysis` · `YARA` · `MITRE ATT&CK` · `Sigma`
 
-Current build: Python for getting things done, Linux for feeling at home, and enough Go to make a useful CLI. No 47-logo skill tree pretending I main every language.
-
-## CURRENTLY IN THE LOBBY
+### Currently in the lobby
 
 <div align="center">
 
@@ -66,7 +52,7 @@ Current build: Python for getting things done, Linux for feeling at home, and en
 
 </div>
 
-## PROFILE STATS // OPTIONAL HUD
+### GitHub stats
 
 <div align="center">
 
@@ -74,13 +60,5 @@ Current build: Python for getting things done, Linux for feeling at home, and en
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VelkaRepo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=VelkaRepo&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-<div align="center">
-
-`SYSTEM STATUS: online` · `THREAT LEVEL: depends on the logs` · `SOULS: still borne`
 
 </div>
