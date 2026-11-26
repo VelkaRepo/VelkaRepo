@@ -1,81 +1,64 @@
 <div align="center">
 
-# Dionisius Lucky
+# `VELKAREPO.exe`
 
-`SOC Analyst` · `Jakarta, Indonesia` · `Human firewall debugger`
+### SOC Analyst by day · command-line glitch hunter by night
 
-<div align="left">
+**Jakarta, Indonesia** · `Python` · `Linux` · `Security tooling`
 
-```text
-> whoami
-Dionisius Lucky
+> Reality has bugs. I just happen to read the logs.
 
-> role
-SOC Analyst
-
-> location
-Jakarta, Indonesia
-
-> interests
-command-line forensics, Python tools, detection engineering,
-network traffic, Linux, and things that beep at 3 AM
-
-> current_side_quest
-[cmd-unmask](https://github.com/VelkaRepo/cmd-unmask)
-
-> status
-Probably unmasking another suspicious command line.
-```
-
-</div>
-
-[![GitHub](https://img.shields.io/badge/GitHub-VelkaRepo-181717?style=for-the-badge&logo=github)](https://github.com/VelkaRepo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username-here)
+[![GitHub](https://img.shields.io/badge/GitHub-VelkaRepo-181717?style=flat&logo=github)](https://github.com/VelkaRepo)
+[![Discord](https://img.shields.io/badge/Discord-join_the_lobby-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/697657956216471587)
 
 </div>
 
 ---
 
-## Current side quests
+## PLAYER PROFILE
 
-### [cmd-unmask](https://github.com/VelkaRepo/cmd-unmask)
+```text
+CLASS      SOC Analyst
+SPAWN      Jakarta, Indonesia
+LOADOUT    Python · Go · Linux · YARA · Sigma
+PASSIVE    Reads suspicious command lines so you don't have to
+CURRENT    Building tools for the side quests nobody asked for
+```
 
-A static command-line decoder for people who shouldn't have to manually solve an obfuscation puzzle during an incident.
+I work in security operations and like making the weird, messy parts of triage a little easier to inspect. Think less *“chosen one saves the galaxy”*, more *“someone please explain why this PowerShell is wearing three layers of disguise.”*
 
-It unpacks encoded commands, traces suspicious behavior, extracts IOCs, and emits SOC notes or Sigma rules. No payload execution. No child shells. No `eval()` needed. It is mostly Python and an unreasonable amount of attention to edge cases.
+## ACTIVE QUEST: [cmd-unmask](https://github.com/VelkaRepo/cmd-unmask)
+
+Static command-line de-obfuscation and behavioral triage for SOC analysts and detection engineers. It peels back common obfuscation, extracts behaviors and IOCs, and can generate analyst notes and Sigma rules—all without executing the input.
 
 ```bash
 git clone https://github.com/VelkaRepo/cmd-unmask.git
 cd cmd-unmask
 pip install -e .
-cmd-unmask "payload_that_should_probably_be_in_a_sandbox"
+cmd-unmask "suspicious_command_line_goes_here"
 ```
 
 [![Python](https://img.shields.io/badge/Python-stdlib_only-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/VelkaRepo/cmd-unmask)
-[![Zero dependencies](https://img.shields.io/badge/dependencies-0-009688?style=flat)](https://github.com/VelkaRepo/cmd-unmask)
-[![Tests](https://img.shields.io/badge/tests-169_passed-success?style=flat)](https://github.com/VelkaRepo/cmd-unmask)
+[![Dependencies](https://img.shields.io/badge/dependencies-zero-00bfa5?style=flat)](https://github.com/VelkaRepo/cmd-unmask)
+[![Tests](https://img.shields.io/badge/tests-169_passed-8a63d2?style=flat)](https://github.com/VelkaRepo/cmd-unmask)
 
-### Previous saves
+## OTHER SAVE FILES
 
-- [HashShield](https://github.com/VelkaRepo/HashShield) — Hybrid EDR experiments, YARA rules, malware detection, VirusTotal, and a dashboard I kept saying would be quick to build.
-- [knock](https://github.com/VelkaRepo/knock) — Go directory scanner. Fast in the terminal, where all the cool binaries live.
-- [cannary](https://github.com/VelkaRepo/cannary) — Python, HTML, and one more machine that is definitely not self-aware.
+- **[HashShield](https://github.com/VelkaRepo/HashShield)** — Hybrid EDR project with ClamAV, YARA, VirusTotal intelligence, multi-agent support, and a web dashboard. The security-tooling equivalent of adding another screen to the command center.
+- **[knock](https://github.com/VelkaRepo/knock)** — A smart directory scanner in Go. Fast little side quest.
+- **[cannary](https://github.com/VelkaRepo/cannary)** — Python project with a web interface. Still not a bird.
 
----
-
-## Equipment slot
+## EQUIPPED
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,linux,bash,html,git,docker&theme=dark" alt="Python, Go, Linux, Bash, HTML, Git, and Docker" />
+  <img src="https://skillicons.dev/icons?i=python,go,linux,bash,html,git&theme=dark" alt="Python, Go, Linux, Bash, HTML, and Git" />
 </p>
 
-`SOC triage` · `Command-line analysis` · `YARA` · `MITRE ATT&CK` · `Sigma` · `Python stdlib` · `Static analysis`
+`SOC triage` · `Static analysis` · `YARA` · `MITRE ATT&CK` · `Sigma`
 
-The exact loadout changes depending on whether the day involves packet logs, obfuscated PowerShell, or a shell that has seen too much.
+Current build: Python for getting things done, Linux for feeling at home, and enough Go to make a useful CLI. No 47-logo skill tree pretending I main every language.
 
----
-
-## Discord presence
+## CURRENTLY IN THE LOBBY
 
 <div align="center">
 
@@ -83,9 +66,7 @@ The exact loadout changes depending on whether the day involves packet logs, obf
 
 </div>
 
----
-
-## GitHub telemetry
+## PROFILE STATS // OPTIONAL HUD
 
 <div align="center">
 
@@ -100,7 +81,6 @@ The exact loadout changes depending on whether the day involves packet logs, obf
 
 <div align="center">
 
-**Build logs and false positives go here.**  
-`[ status: learning ] [ coffee: depleted ] [ alerts: inexplicably ongoing ]`
+`SYSTEM STATUS: online` · `THREAT LEVEL: depends on the logs` · `SOULS: still borne`
 
 </div>
