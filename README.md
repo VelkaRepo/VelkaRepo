@@ -6,7 +6,7 @@
 
 **Jakarta, Indonesia** · `Python` · `Linux` · `Security tooling`
 
-> Reality has bugs. I just happen to read the logs.
+> Reality has bugs. I spray bugs with bygone.
 
 [![GitHub](https://img.shields.io/badge/GitHub-VelkaRepo-181717?style=flat&logo=github)](https://github.com/VelkaRepo)
 [![Discord](https://img.shields.io/badge/Discord-join_the_lobby-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/697657956216471587)
@@ -21,7 +21,7 @@
 CLASS      SOC Analyst
 SPAWN      Jakarta, Indonesia
 LOADOUT    Python · Go · Linux · YARA · Sigma
-PASSIVE    Reads suspicious command lines so you don't have to
+PASSIVE    Breathing
 CURRENT    Building tools for the side quests nobody asked for
 ```
 
