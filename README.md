@@ -1,63 +1,54 @@
-<h1 align="center">Hi, I'm Dionisius Lucky 👋</h1>
+<div align="center">
 
-<p align="center">
-  A passionate student diving deep into the world of Cyber Security, Networking, and Python Development. <br/> 
-  Currently based in Salatiga, Indonesia 🇮🇩 and always excited to learn and build new things.
-</p>
+# Dionisius Lucky
 
----
+**SOC Analyst · Security tooling · Python & Go**
 
-### 🔭 What I'm Up To
+Jakarta, Indonesia · Usually turning suspicious command lines into something less mysterious.
 
-- 🛡️ I'm the creator of **[HashShield](https://github.com/VelkaRepo/HashShield)**, a professional-grade, installable malware scanner with a YARA engine and interactive threat management.
-- 🌱 I’m currently sharpening my skills in **Docker** and **React** to build more robust applications.
-- 💬 Ask me about **Python scripting**, **Network Security fundamentals**, or anything related to **Linux**.
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/your-linkedin-username-here)**
-- 🎧 You can also reach me on Discord! My current status is below:
+[![GitHub](https://img.shields.io/badge/GitHub-VelkaRepo-181717?style=flat&logo=github)](https://github.com/VelkaRepo)
+[![Discord](https://img.shields.io/badge/Discord-say_hi-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/697657956216471587)
 
-<p align="center">
-  <a href="https://discord.com/users/697657956216471587">
-    <img src="https://lanyard.cnrad.dev/api/697657956216471587?idleMessage=Souls-borne%20journey.%20Be%20Back%20soon." alt="Discord Presence"/>
-  </a>
-</p>
+</div>
 
 ---
 
-### 🚀 My Featured Project
+## What I do
 
-<p align="center">
-  <a href="https://github.com/VelkaRepo/HashShield">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VelkaRepo&repo=HashShield&theme=dracula&show_owner=true" alt="HashShield Project">
-  </a>
-</p>
+I work as a **SOC Analyst** and build small, practical tools for the parts of security work that are repetitive, noisy, or just a little too manual. Lately, most of my tinkering has gone into **command-line de-obfuscation and static triage**—because unreadable PowerShell is nobody's favorite bedtime story.
+
+## Currently on my workbench
+
+### [cmd-unmask](https://github.com/VelkaRepo/cmd-unmask)
+A static command-line de-obfuscation and behavioral triage tool for SOC analysts and detection engineers. It unpacks common layers of obfuscation, highlights behavior and IOCs, and can produce analyst-ready notes and Sigma rules. It analyzes commands without executing them.
+
+[![Python](https://img.shields.io/badge/Python-stdlib--only-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/VelkaRepo/cmd-unmask)
+[![Dependencies](https://img.shields.io/badge/dependencies-zero-009688?style=flat)](https://github.com/VelkaRepo/cmd-unmask)
+
+## Other things I've built
+
+- **[HashShield](https://github.com/VelkaRepo/HashShield)** — A Python-based hybrid EDR project combining local detection with YARA and VirusTotal intelligence, plus multi-agent support and a web dashboard.
+- **[knock](https://github.com/VelkaRepo/knock)** — A smart directory scanner built in Go.
+- **[cannary](https://github.com/VelkaRepo/cannary)** — A Python project with a web interface.
+
+## Tools I reach for
+
+**Security & scripting:** Python · YARA · Linux  
+**Also building with:** Go · HTML
+
+I tend to pick the tool that gets the job done, not the one with the loudest logo collection.
+
+## GitHub, in numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VelkaRepo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats for VelkaRepo" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VelkaRepo&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages for VelkaRepo" />
+
+<img src="https://streak-stats.demolab.com?user=VelkaRepo&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for VelkaRepo" />
+
+</div>
 
 ---
 
-### 💻 My Tech Stack
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-</p>
-
----
-
-### 📊 My GitHub Stats & Activity
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=VelkaRepo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Dionisius's GitHub Stats"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VelkaRepo&layout=compact&langs_count=8&theme=dracula" alt="Dionisius's Top Languages"/>
-    </td>
-  </tr>
-</table>
+Got an interesting command line, detection idea, or a tool that could use a second pair of eyes? [Open an issue](https://github.com/VelkaRepo/cmd-unmask/issues) or find me on [Discord](https://discord.com/users/697657956216471587).
