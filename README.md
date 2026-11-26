@@ -2,49 +2,29 @@
 
 # Dionisius Lucky
 
-**SOC Analyst** · Jakarta, Indonesia
+`SOC analyst` · `Jakarta` · `probably tweaking a script`
 
-Security operations, Python tooling, and the occasional deep dive into a suspicious command line.
-
-[![GitHub](https://img.shields.io/badge/GitHub-VelkaRepo-181717?style=flat&logo=github)](https://github.com/VelkaRepo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username-here)
-[![Discord](https://img.shields.io/badge/Discord-697657956216471587-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/697657956216471587)
+[GitHub](https://github.com/VelkaRepo) · [LinkedIn](https://linkedin.com/in/your-linkedin-username-here) · [Discord](https://discord.com/users/697657956216471587)
 
 </div>
 
----
+```text
+likes: python, linux, weird command lines, anime, games
+currently: cmd-unmask
+comfort character: silver wolf
+```
 
-### About
+### currently poking at
 
-I work as a **SOC Analyst** on a rotating shift schedule and build security tools in the spaces between alerts. My current focus is command-line analysis, de-obfuscation, and making useful workflows for triage.
+**[cmd-unmask](https://github.com/VelkaRepo/cmd-unmask)** — command-line de-obfuscation for SOC triage. Static analysis only; suspicious stuff stays unexecuted.
 
-When I'm not looking at logs, I'm probably playing something, watching anime, or getting back to a Soulsborne game. **Silver Wolf** is an easy favorite.
+Python · YARA · Sigma · Linux · Go (sometimes)
 
-### What I'm working on
+### side projects
 
-#### [cmd-unmask](https://github.com/VelkaRepo/cmd-unmask)
+[HashShield](https://github.com/VelkaRepo/HashShield) · [knock](https://github.com/VelkaRepo/knock) · [cannary](https://github.com/VelkaRepo/cannary)
 
-A static command-line de-obfuscation and behavioral triage tool for SOC analysts and detection engineers. It unpacks common obfuscation, extracts behaviors and IOCs, and can generate analyst notes and Sigma rules—without executing the input.
-
-[![Python](https://img.shields.io/badge/Python-stdlib--only-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/VelkaRepo/cmd-unmask)
-[![Dependencies](https://img.shields.io/badge/dependencies-zero-009688?style=flat)](https://github.com/VelkaRepo/cmd-unmask)
-[![Tests](https://img.shields.io/badge/tests-169%20passed-success?style=flat)](https://github.com/VelkaRepo/cmd-unmask)
-
-### Other projects
-
-- **[HashShield](https://github.com/VelkaRepo/HashShield)** — Hybrid EDR project with ClamAV, YARA, VirusTotal intelligence, multi-agent support, and a web dashboard.
-- **[knock](https://github.com/VelkaRepo/knock)** — A smart directory scanner in Go.
-- **[cannary](https://github.com/VelkaRepo/cannary)** — A Python project with a web interface.
-
-### Stack & interests
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,linux,bash,html,git&theme=dark" alt="Python, Go, Linux, Bash, HTML, and Git" />
-</p>
-
-`SOC operations` · `Static analysis` · `YARA` · `MITRE ATT&CK` · `Sigma`
-
-### Currently in the lobby
+### lobby status
 
 <div align="center">
 
@@ -52,7 +32,8 @@ A static command-line de-obfuscation and behavioral triage tool for SOC analysts
 
 </div>
 
-### GitHub stats
+<details>
+<summary>github stats (the usual)</summary>
 
 <div align="center">
 
@@ -62,3 +43,5 @@ A static command-line de-obfuscation and behavioral triage tool for SOC analysts
 <img src="https://streak-stats.demolab.com?user=VelkaRepo&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
+
+</details>
